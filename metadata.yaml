@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8671
     wikipedia: http://en.wikipedia.org/wiki/Olive_Higgins_Prouty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19436#The-Fifth-Wheel--A-Novel
 gutenberg_issued: '2006-10-02'
 gutenberg_type: Text
 identifiers:
